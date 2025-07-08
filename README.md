@@ -25,9 +25,7 @@ siman-landing-page/
 ├── index.html          # Página principal
 ├── style.css           # Estilos CSS
 ├── README.md           # Documentación
-├── .gitignore          # Archivos a ignorar
-└── assets/             # Recursos (si los hubiera)
-```
+
 
 ## 🎨 Secciones de la Landing Page
 
@@ -38,10 +36,3 @@ siman-landing-page/
 5. **Contacto**: Formulario de contacto
 6. **Footer**: Información de la empresa y redes sociales
 
-## 🔧 Instalación y Uso
-
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/tu-usuario/siman-landing-page.git
-   cd siman-landing-page
-   ```
